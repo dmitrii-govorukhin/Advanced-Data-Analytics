@@ -1,8 +1,8 @@
 # Advanced Data Analytics
 
-**Project:** 					  Google specialization consisting of 7 courses.
+**Project:** 					  Google specialization - 7 course series.
 
-**Program languages:**  Python
+**Platforms and tools:**  Jupyter Notebook, Python, Tableau
 
 **Description:**        This repository contains my notebooks and course projects from the Google series of seven courses I completed:
  - Foundations of Data Science
