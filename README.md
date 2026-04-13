@@ -34,7 +34,7 @@ The specialization focuses on data analysis methods using Python libraries for M
  - Data Visualization
  - A/B Testing
  
-**Results / Key Findings:** This program included over 200 hours of instruction and hundreds of practice-based assessments, which helped me simulate real-world advanced data analytics scenarios that are critical for success in the workplace. The Course_Lab_Projects folder in the repository contains my project lab work for each course, as well as the final stone project that completes the specialization.
+**Results / Key Findings:** This program included over 200 hours of instruction and hundreds of practice-based assessments, which helped me simulate real-world advanced data analytics scenarios that are critical for success in the workplace. The Course_Lab_Projects folder in the repository contains my project lab work for each course, as well as the final stone project named "Providing data-driven suggestions for HR" that completes the specialization.
 
 **Verify this certificate at:**       https://coursera.org/verify/professional-cert/DLUS5V9S6MMK
 
