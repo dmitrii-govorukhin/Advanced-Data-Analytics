@@ -1,10 +1,10 @@
 # Advanced Data Analytics
 
-**Project:** 					  Google specialization - 7 course series.
+**Project:** Google specialization - 7 course series.
 
-**Platforms and tools:**  Jupyter Notebook, Python, Tableau
+**Platforms and tools:** Jupyter Notebook, Python, Tableau
 
-**Description:**        This repository contains my notebooks and course projects from the Google series of seven courses I completed:
+**Description:** This repository contains my notebooks and course projects from the Google series of seven courses I completed:
  1. Foundations of Data Science
  2. Go Beyond the Numbers: Translate Data into Insights
  3. The Power of Statistics
@@ -33,8 +33,10 @@ The specialization focuses on data analysis methods using Python libraries for M
  - Tableau Software
  - Data Visualization
  - A/B Testing
+ 
+**Results / Key Findings: ** This program included over 200 hours of instruction and hundreds of practice-based assessments, which helped me simulate real-world advanced data analytics scenarios that are critical for success in the workplace. The Course_Lab_Projects folder in the repository contains my project lab work for each course, as well as the final stone project that completes the specialization.
 
 **Verify this certificate at:**       https://coursera.org/verify/professional-cert/DLUS5V9S6MMK
 
-![alt text](https://github.com/dmitrii-govorukhin/Advanced-Data-Analytics/blob/main/Certificate.png?raw=true)
+![alt text](https://github.com/dmitrii-govorukhin/Advanced-Data-Analytics/blob/main/Google_Advanced_Data_Analytics_Certificate.png?raw=true)
 
