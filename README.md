@@ -5,13 +5,13 @@
 **Platforms and tools:**  Jupyter Notebook, Python, Tableau
 
 **Description:**        This repository contains my notebooks and course projects from the Google series of seven courses I completed:
- - Foundations of Data Science
- - Go Beyond the Numbers: Translate Data into Insights
- - The Power of Statistics
- - Regression Analysis: Simplify Complex Data Relationships
- - The Nuts and Bolts of Machine Learning
- - Google Advanced Data Analytics Capstone
- - Accelerate Your Job Search with AI
+ 1. Foundations of Data Science
+ 2. Go Beyond the Numbers: Translate Data into Insights
+ 3. The Power of Statistics
+ 4. Regression Analysis: Simplify Complex Data Relationships
+ 5. The Nuts and Bolts of Machine Learning
+ 6. Google Advanced Data Analytics Capstone
+ 7. Accelerate Your Job Search with AI
 
 The specialization focuses on data analysis methods using Python libraries for Machine Learning and covers the following skills: 
  - Data Analysis
